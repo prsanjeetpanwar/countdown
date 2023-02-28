@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,700;1,300;1,400&family=Poppins:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+
+}
+body{
+     background-image: url('photo-1636012873375-f77a63af3f9a.avif'); 
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-repeat: no-repeat; 
+     /* min-height: 100vh;  */
+
+    flex-direction: column; 
+    background-position: center center;
+     display: flex; 
+    align-items: center;
+     justify-content: center;
+    color: white;
+    background-size: cover;
+
+
+
+}
+h1{
+    font-size: 4rem;
+    /* margin-top: -10rem; */
+    font-weight:normal;
+    margin-top: 5rem;
+
+}
+.countdown-cotainer{
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* background-repeat: no-repeat; */
+    /* min-height: 100vh; */
+    /* max-width: 90vw; */
+    /* background-position: center center; */
+    /* margin: 0; */
+    /* background-size: cover; */
+    /* height: 300px; */
+    /* padding-top: 2px; */
+    /* padding-bottom: 0px 9x;  */
+
+
+
+
+
+
+
+
+
+}
+
+.big-text{
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+
+
+}
+.countdown-el {
+text-align: center;
+
+
+}
+.countdown-el span{
+    font-size: 1.3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
